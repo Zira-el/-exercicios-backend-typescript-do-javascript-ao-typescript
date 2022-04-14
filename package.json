@@ -1,0 +1,24 @@
+{
+  "name": "aula_01---exercicios-backend-typescript-do-javascript-ao-typescript-master",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zira-el/-exercicios-backend-typescript-do-javascript-ao-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zira-el/-exercicios-backend-typescript-do-javascript-ao-typescript/issues"
+  },
+  "homepage": "https://github.com/Zira-el/-exercicios-backend-typescript-do-javascript-ao-typescript#readme",
+  "devDependencies": {
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
